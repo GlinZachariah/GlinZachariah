@@ -6,6 +6,8 @@
 
 ### My hobbies are watching movies 🎬 and listening music 🎧. 
 
+### Connect with me on [LinkedIn](https://www.linkedin.com/in/glinzachariah) | [Facebook](https://www.facebook.com/glinzac) | [Instagram](http://instagram.com/glinzac) | [Twitter](https://twitter.com/glinzac)
+
 ##  My Projects
 
   - ### MediAssist (Firebase, Angular)
