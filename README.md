@@ -28,7 +28,7 @@
    - ### TEDxSubhashPark (WordPress)
         I had completed this project as a part of the TEDx event happening in our locality. I actually got to work on something that would be looked at by many people, felt great. I even added a count down timer for the event.
 
-   - ### Matching Game (HTML,CSS,JS)
+   - ### [Matching Game](https://glinzachariah.github.io/fend-project-2/) (HTML,CSS,JS)
        I was a recipient of the Google Scholarship for Nanodegree Front End Web Development in Udacity and I completed this as a part matching game as a part of the Nanodegree course assessment. The project is a simple puzzle to find two similar matches together from hidden boxes within the shortest number of moves. Even though I wasn’t able to complete the Nanodegree Course within the stipulated time, I did manage to effectively learn the core fundamentals of Web Development like features of responsiveness, accessibility etc. compared to any other website that offers to teach web development online.
 
   - ###  Application Request Management System (PHP, SQL)
