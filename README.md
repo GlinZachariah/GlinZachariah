@@ -8,6 +8,18 @@
 
 ### Connect with me on [LinkedIn](https://www.linkedin.com/in/glinzachariah) | [Facebook](https://www.facebook.com/glinzac) | [Instagram](http://instagram.com/glinzac) | [Twitter](https://twitter.com/glinzac)
 
+
+## My Experiments
+
+ ![Angular](https://img.shields.io/badge/Framework-Angular-red)  ![Spring](https://img.shields.io/badge/Framework-Spring-green)   ![WordPress](https://img.shields.io/badge/framework-WordPress-lightblue)  ![Django](https://img.shields.io/badge/framework-Django-darkgreen)
+ 
+ ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)  ![MySQL](https://img.shields.io/badge/Database-Firebase-yellow)
+ 
+ ![Jenkins](https://img.shields.io/badge/tools-Jenkins-blue)  ![Git](https://img.shields.io/badge/tools-Git-orange)  ![Dialogflow](https://img.shields.io/badge/tools-Dialogflow-orange)
+
+ 
+ ![PHP](https://img.shields.io/badge/lang-PHP-darkblue)  ![Java](https://img.shields.io/badge/lang-Java-blue)  ![Python](https://img.shields.io/badge/lang-python-blue)
+
 ##  My Projects
 
   - ### [myNotebook](https://glinzachariah.github.io/myNotebook/) (Angular, SpringBoot)
