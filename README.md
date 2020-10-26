@@ -22,6 +22,9 @@
 
 ##  My Projects
 
+  - ### [myTasks](https://github.com/GlinZachariah/myTasks) (Angular)
+       Working on a task management tool as part of improving Angular Skills.
+
   - ### [myNotebook](https://glinzachariah.github.io/myNotebook/) (Angular, SpringBoot)
        A note management tool which works locally allows to take notes. users can create different page and each page can have seperate sections. Editor used [ngx-summernote](https://github.com/lula/ngx-summernote)
 
