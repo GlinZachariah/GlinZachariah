@@ -11,7 +11,7 @@
 ##  My Projects
 
   - ### [myNotebook](https://glinzachariah.github.io/myNotebook/) (Angular, SpringBoot)
-        A note management tool which works locally allows to take notes. users can create different page and each page can have seperate sections. Editor used [ngx-summernote](https://github.com/lula/ngx-summernote)
+       A note management tool which works locally allows to take notes. users can create different page and each page can have seperate sections. Editor used [ngx-summernote](https://github.com/lula/ngx-summernote)
 
   - ### MediAssist (Firebase, Angular)
        This is a practice project completed after the Full Stack training. The expected outcome of the project is to develop a single page application that allows patients to record appointments, prescriptions, medical reports, expenses, etc. This was built using Angular Material and Firebase (Realtime Database & Firebase Storage). A temporary version of the app was built and hosted on Firebase hosting service. Many more features are yet to be included.
