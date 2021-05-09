@@ -13,7 +13,7 @@
 
  ![Angular](https://img.shields.io/badge/Framework-Angular-red)  ![Spring](https://img.shields.io/badge/Framework-Spring-green)   ![WordPress](https://img.shields.io/badge/framework-WordPress-lightblue)  ![Django](https://img.shields.io/badge/framework-Django-darkgreen)
  
- ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)  ![MySQL](https://img.shields.io/badge/Database-Firebase-yellow)
+ ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)   ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)  ![MySQL](https://img.shields.io/badge/Database-Firebase-yellow)
  
  ![Jenkins](https://img.shields.io/badge/tools-Jenkins-blue)  ![Git](https://img.shields.io/badge/tools-Git-orange)  ![Dialogflow](https://img.shields.io/badge/tools-Dialogflow-orange)
 
