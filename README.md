@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Glin Zachariah. 
 
-### I'm currently working 💼  as a Jr. Software Engineer  👨🏻‍💻, at Cognizant . Quick Learner,Explorer 🚀  and tinkerer ⚙️.
+### I'm currently working 💼  as a Jr. Software Engineer  👨🏻‍💻, at Cognizant. I'm Quick Learner, Explorer 🚀  and tinkerer ⚙️.
 
 ### Trained as Java Full Stack Developement (Angular, Spring Framework)
 
