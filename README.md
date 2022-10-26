@@ -20,15 +20,15 @@
 
 ##  My Projects
 
+  - ### [MediAssist](https://mediassist-zac.web.app/) (Firebase, Angular)
+  > Test credentials : test@gmail.com ; test+1
+  - This is a practice project completed after the Full Stack training. The expected outcome of the project is to develop a single page application that allows patients to record appointments, prescriptions, medical reports, expenses, etc. This was built using Angular Material and Firebase (Realtime Database & Firebase Storage). A temporary version of the app was built and hosted on Firebase hosting service. Many more features are yet to be included.
+
   - ### [myTasks](https://github.com/GlinZachariah/myTasks) (Angular)
        Working on a task management tool as part of improving Angular Skills.
 
   - ### [myNotebook](https://glinzachariah.github.io/myNotebook/) (Angular, SpringBoot)
        A note management tool which works locally allows to take notes. users can create different page and each page can have seperate sections. Editor used [ngx-summernote](https://github.com/lula/ngx-summernote)
-
-  - ### [MediAssist](https://mediassist-zac.web.app/) (Firebase, Angular)
-  - Test credentials : test@gmail.com ; test+1
-       This is a practice project completed after the Full Stack training. The expected outcome of the project is to develop a single page application that allows patients to record appointments, prescriptions, medical reports, expenses, etc. This was built using Angular Material and Firebase (Realtime Database & Firebase Storage). A temporary version of the app was built and hosted on Firebase hosting service. Many more features are yet to be included.
        
    - ### Mentor-On Demand (Angular, Spring Boot, MySQL)
        This was the project I completed as a part of the training for the Java Full Stack Developer in my career. The project was to build an online mentor system, in which students can search mentors based on a specific technology, for a given time of day. Based on the availability of the mentors they can request the mentors. I learned about Angular, Spring, Spring Boot, Java, Microservices, JWT, MySQL, JPA, Hibernate, features of Java 8 with this project.
