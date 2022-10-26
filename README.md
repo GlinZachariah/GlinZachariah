@@ -1,15 +1,13 @@
 ### Hi there 👋, My name is Glin Zachariah. 
 
-### I'm currently working 💼  as a Service Engineer  👨🏻‍💻, at Infosys. I'm Quick Learner, Explorer 🚀  and tinkerer ⚙️.
+### I'm a full time student at the University of Strathclyde, Glasgow. I'm Quick Learner, Explorer 🚀  and part-time tinkerer ⚙️.
 
-### Trained as Java Full Stack Developement (Angular, Spring Framework)
+### My hobbies are watching movies 🎬 and listening music 🎧
 
-### My hobbies are watching movies 🎬 and listening music 🎧. 
-
-### Connect with me on [LinkedIn](https://www.linkedin.com/in/glinzachariah) | [Facebook](https://www.facebook.com/glinzac) | [Instagram](http://instagram.com/glinzac) | [Twitter](https://twitter.com/glinzac)
+### Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/glinzachariah) | [Facebook](https://www.facebook.com/glinzac) | [Instagram](http://instagram.com/glinzac) | [Twitter](https://twitter.com/glinzac)
 
 
-## My Experiments
+## Below are the list of Experiments I did to better learn 
 
  ![Angular](https://img.shields.io/badge/Framework-Angular-red)  ![Spring](https://img.shields.io/badge/Framework-Spring-green)   ![WordPress](https://img.shields.io/badge/framework-WordPress-lightblue)  ![Django](https://img.shields.io/badge/framework-Django-darkgreen)
  
