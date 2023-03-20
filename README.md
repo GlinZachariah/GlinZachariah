@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Glin Zachariah. 
 
-### I'm a full time student at the University of Strathclyde, Glasgow. I'm Quick Learner, Explorer 🚀  and part-time tinkerer ⚙️.
+### I'm from Glasgow. I'm Quick Learner, Explorer 🚀  and part-time tinkerer ⚙️.
 
 ### My hobbies are watching movies 🎬 and listening music 🎧
 
