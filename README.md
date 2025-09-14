@@ -9,16 +9,21 @@
 
 ## Below are the list of Experiments I did to better learn 
 
- ![Angular](https://img.shields.io/badge/Framework-Angular-red)  ![Spring](https://img.shields.io/badge/Framework-Spring-green)   ![WordPress](https://img.shields.io/badge/framework-WordPress-lightblue)  ![Django](https://img.shields.io/badge/framework-Django-darkgreen)
+
+
+ ![Angular](https://img.shields.io/badge/Framework-Angular-red)  ![Spring](https://img.shields.io/badge/Framework-Spring-green)   ![WordPress](https://img.shields.io/badge/framework-WordPress-lightblue)  ![Django](https://img.shields.io/badge/framework-Django-darkgreen)  ![React](https://img.shields.io/badge/Framework-React-red)
  
  ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)   ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)  ![MySQL](https://img.shields.io/badge/Database-Firebase-yellow)
  
- ![Jenkins](https://img.shields.io/badge/tools-Jenkins-blue)  ![Git](https://img.shields.io/badge/tools-Git-orange)  ![Dialogflow](https://img.shields.io/badge/tools-Dialogflow-orange)
+ ![Jenkins](https://img.shields.io/badge/tools-Jenkins-blue)  ![Git](https://img.shields.io/badge/tools-Git-orange)  ![Dialogflow](https://img.shields.io/badge/tools-Dialogflow-orange) ![Claude](https://img.shields.io/badge/tools-Claude-orange)
 
  
  ![PHP](https://img.shields.io/badge/lang-PHP-darkblue)  ![Java](https://img.shields.io/badge/lang-Java-blue)  ![Python](https://img.shields.io/badge/lang-python-blue)
 
 ##  My Projects
+
+  -  ### [Custom Anki Clone](https://glinzachariah.github.io/custom-anki-clone/) (Claude, React)
+  - This is a experimental claude project learning to get understanding on developement made easier using prompt engineering. This contains a clone of the flashcards which can be used to learn and test your knowledge and understanding on a few topics.
 
   - ### [MediAssist](https://mediassist-zac.web.app/) (Firebase, Angular)
   > Test credentials : test@gmail.com ; test+1
